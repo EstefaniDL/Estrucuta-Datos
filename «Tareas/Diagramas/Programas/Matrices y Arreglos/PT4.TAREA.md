@@ -1,6 +1,9 @@
 # PT4. Memoria dinámica y matrices
 
--Realice un programa en C que genere una lista de los primeros 10 números pares, deberá imprimirlos en orden inverso, posteriormente deberá modificar el valor almacenado en el índice correspondiente al último dígito de su número cuenta por -1.
+Programas de memoria dinámica y matrices.
+
+# 1.-Numeros pares 
+Realice un programa en C que genere una lista de los primeros 10 números pares, deberá imprimirlos en orden inverso, posteriormente deberá modificar el valor almacenado en el índice correspondiente al último dígito de su número cuenta por -1.
 
 ```markdown
 | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 |
@@ -10,7 +13,8 @@ Número de cuenta 410092686
 ```markdown
 | 2 | 4 | 6 | 8 | 10 | 12 | -1 | 16 | 18 | 20 |
 ```
--Realice un programa que acepte una lista de *n* alumnos, el arreglo deberá ser de *n*x3, la primera columna deberá tener un espacio de 25 caracteres, la segunda y tercera deberá aceptar números enteros.
+# 2.-Matriz para *n* alumnos
+Realice un programa que acepte una lista de *n* alumnos, el arreglo deberá ser de *n*x3, la primera columna deberá tener un espacio de 25 caracteres, la segunda y tercera deberá aceptar números enteros.
 
 ```markdown
 | Nombre   | Edad | Calificación |
@@ -20,7 +24,8 @@ Número de cuenta 410092686
 | ...   	 | ...  | ...          |
 | Brenda   | 34   | 7            |
 ```
--Genere un arreglo dinámico variable bidimensional de acuerdo a su número de cuenta y será rellenado con los dígitos correspondientes a su cuenta.
+# 3.-Número de cuenta
+Genere un arreglo dinámico variable bidimensional de acuerdo a su número de cuenta y será rellenado con los dígitos correspondientes a su cuenta.
 
 
 ```markdown
