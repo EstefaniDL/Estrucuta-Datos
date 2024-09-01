@@ -1,6 +1,7 @@
 # PT3. Recorrido de matrices
 
 PT3: Realice los programas en lenguaje C para el recorrido de las siguientes matrices:
+
 - **Matriz 6x4**: Matriz que ingresa elementos en forma de "S" en forma de ZigZag.
 - **Matriz 6x6**: Matriz que ingresa elementos en forma de "Z" empezando de arriba hacia abajo y de derecha a izquierda.
 - **Matriz 6x6**: Matriz que ingresa elementos en forma de "Z" empezando de abajo hacia arriba y de izquierda a derecha.
