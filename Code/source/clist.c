@@ -1,5 +1,5 @@
 /*
-    dlist.c
+    clist.c
 */
 
 #include <stdlib.h>
