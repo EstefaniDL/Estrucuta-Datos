@@ -1,7 +1,9 @@
-#ifndef LIST_H
-#define LIST_H
+// circular_list.h
 
-// Definicion del nodo
+#ifndef CIRCULAR_LIST_H
+#define CIRCULAR_LIST_H
+
+// Estructura de un nodo de la lista doblemente enlazada circular
 typedef struct Node {
     int data;
     struct Node* next;
@@ -12,6 +14,6 @@ typedef struct Node {
 Node* create_node(int data);
 void insert_end(Node** head, int data);
 void display_list(Node* head);
-void free_list(Node* head);
+void free_list(Node** head);
 
-#endif
+#endif // CIRCULAR_LIST_H
