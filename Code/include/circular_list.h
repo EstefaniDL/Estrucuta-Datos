@@ -1,4 +1,4 @@
-// circular_list.h
+// CIRCULAR DOUBLE LIST 
 
 #ifndef CIRCULAR_LIST_H
 #define CIRCULAR_LIST_H
