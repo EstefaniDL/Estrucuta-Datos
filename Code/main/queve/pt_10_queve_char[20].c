@@ -1,4 +1,6 @@
-//
+// Dominguez Lira Estefani Michalle
+// Rodriguez Rodriguez Erick Tadeo
+// Programa que crea una queve utilizando una cadena de caracteres
 
 #include <stdio.h>
 #include <stdlib.h>
