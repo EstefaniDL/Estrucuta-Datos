@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Dominguez Lira Estefani Michalle
-// Rodriguez Rodriguez Erick Tadeo
+// Rodríguez Rodríguez Erick Tadeo
 // Algoritmo de ordenamiento Quick Sort estático
 
 void swap(int *a, int *b) {
