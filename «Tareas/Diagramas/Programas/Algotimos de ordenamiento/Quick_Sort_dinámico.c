@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 // Dominguez Lira Estefani Michalle
-// Rodriguez Rodriguez Erick Tadeo
+// Rodríguez Rodríguez Erick Tadeo
 // Algoritmo de ordenamiento Quick Sort dinámico
 
 void swap(int *a, int *b) {
