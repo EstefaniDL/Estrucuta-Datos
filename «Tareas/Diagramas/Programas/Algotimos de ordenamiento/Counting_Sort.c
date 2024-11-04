@@ -4,7 +4,7 @@
 #define OFFSET 99  // Reajuste con respecto a los numeros negativos
 
 // Dominguez Lira Estefani Michalle
-// Rodriguez Rodriguez Erick Tadeo
+// Rodríguez Rodríguez Erick Tadeo
 // Algoritmo de ordenamiento Counting Sort
 
 void imprimirArray(int arr[], int n) {
