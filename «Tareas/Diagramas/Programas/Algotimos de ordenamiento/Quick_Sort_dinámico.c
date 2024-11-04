@@ -3,7 +3,7 @@
 
 // Dominguez Lira Estefani Michalle
 // Rodriguez Rodriguez Erick Tadeo
-//Algoritmo de ordenamiento Quick Sort dinámico
+// Algoritmo de ordenamiento Quick Sort dinámico
 
 void swap(int *a, int *b) {
     int temp = *a;
